@@ -1,0 +1,2 @@
+# ogu_pr_homeworks
+ogu_patern_recognition homework quizzes
